@@ -8,7 +8,7 @@ import sys
 
 #
 # Solution of Grading Students problem in Problem Solving challenge on HackerRank
-#
+# You can access problem document from this link -> www.hackerrank.com/challenges/grading/problem
 
 def gradingStudents(grades):
     
